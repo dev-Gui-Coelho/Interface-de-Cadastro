@@ -26,5 +26,3 @@ def email_ver(c) -> bool:
     return conf
 
 
-
-email_ver('dasillva.quezia@gmail.com')
